@@ -18,9 +18,9 @@ This project simulates a private equity investment case study involving the acqu
 - **Forecast Period:** 2025–2029
 
 ## Deliverables
-- 📘 **Final Investment Memo** (12 pages)
-- 📈 **Financial Model** (Excel workbook)
-- 🖼️ **Visual Summary Slide** (PDF with key charts)
+- **Final Investment Memo** (12 pages)
+- **Financial Model** (Excel workbook)
+- **Visual Summary Slide** (PDF with key charts)
 
 ## Skills Demonstrated
 - Financial Forecasting (5-year model)
